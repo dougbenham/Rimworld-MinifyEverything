@@ -7,9 +7,7 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-Source/MinifyEverything/.vs
-Source/MinifyEverything/bin
-Source/MinifyEverything/obj
+
 # Windows Installer files
 *.cab
 *.msi
@@ -48,4 +46,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.ruleset
-/Source/MinifyEverything/packages/Lib.Harmony.2.0.0.2
+
+Source/MinifyEverything/.vs
+Source/MinifyEverything/bin
+Source/MinifyEverything/obj
+Source/MinifyEverything/packages
